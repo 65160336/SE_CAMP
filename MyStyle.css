@@ -1,0 +1,27 @@
+p{
+    font-family: Arial;
+    color: rgb(255, 255, 255);
+}
+
+td{
+    font-family: cursive;
+    font-size: 16pt;
+}
+
+input{
+    border-color:#ffffff ;
+
+}
+
+body{
+    color: rgb(255, 255, 255);
+    background-color: pink; 
+    border: 1px solid black;
+    padding-left: 50px;
+    padding-right: 50px;
+    
+}
+label{
+    border-color: #ff011a;
+}
+
